@@ -1,0 +1,6 @@
+J:\PBDATO\ProgramcionBD\capaEntidades\obj\Debug\capaEntidades.csprojAssemblyReference.cache
+J:\PBDATO\ProgramcionBD\capaEntidades\obj\Debug\capaEntidades.csproj.CoreCompileInputs.cache
+J:\PBDATO\ProgramcionBD\capaEntidades\bin\Debug\capaEntidades.dll
+J:\PBDATO\ProgramcionBD\capaEntidades\bin\Debug\capaEntidades.pdb
+J:\PBDATO\ProgramcionBD\capaEntidades\obj\Debug\capaEntidades.dll
+J:\PBDATO\ProgramcionBD\capaEntidades\obj\Debug\capaEntidades.pdb
